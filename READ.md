@@ -4,7 +4,7 @@
 3. Open Pixel Worlds with Steam, and inject it.
 
 # NEWS
-- GMOD Fixed by pixel worlds, dont use it.
+- GMOD fixed by pixel worlds, dont use it.
 - Every script works well, you can use all.
 
 # IMAGES

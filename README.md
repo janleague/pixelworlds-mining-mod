@@ -1,6 +1,6 @@
 # HOW TO USE?
-1. Download **Cheat Engine** From: https://www.cheatengine.org
-2. Download File and run it with **Cheat Engine**
+1. Download **Cheat Engine** from: https://www.cheatengine.org
+2. Download file and run it with **Cheat Engine**
 3. Open Pixel Worlds with Steam, and inject it.
 
 # NEWS
